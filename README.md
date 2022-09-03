@@ -19,9 +19,12 @@ Tested on macOS 12.4 Monterey
 
 - [x] 🍎 Boot!
 - [x] ⌨️ Keyboard, Touchpad (VoodooPS2Controller.kext)
+  - [ ] Touching touchpad instead of clicking on it
+  - [ ] Touchpad left/right click
 - [ ] 🤞 Touchscreen
 - [ ] 🖋 Touchpen
 - [ ] 🔋 CPU Power Management
+  - [ ] Overheat reboot problem
 - [x] 🌈 Intel G7 Graphics
   - [ ] DRM
 - [ ] 😴 Sleep/Wake
