@@ -361,7 +361,7 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>UTBMap.kext</string>
+				<string>UTBDefault.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -487,7 +487,7 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>Voodoo PS/2 Controller.kext</string>
+				<string>VoodooPS2Controller.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
