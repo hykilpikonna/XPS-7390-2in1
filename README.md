@@ -17,7 +17,7 @@ Tested on macOS 12.4 Monterey
 
 ## Features
 
-- [x] 🍎 Boot!
+- [x] 🍎 Boot! (MacBookPro16,2)
 - [x] ⌨️ Keyboard, Touchpad (VoodooPS2Controller.kext)
   - [x] Touchpad Gestures (VoodooI2C + VoodooI2CHID)
   - [x] Left click by touching (Settings > Touchpad > Tap to click)
