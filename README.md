@@ -18,7 +18,7 @@ Tested on macOS 12.4 Monterey
 ## Features
 
 - [x] Boot!
-- [ ] Keyboard, Touchpad
+- [x] Keyboard, Touchpad (VoodooPS2Controller.kext)
 - [ ] Touchscreen
 - [ ] Touchpen
 - [ ] CPU Power Management
@@ -27,7 +27,7 @@ Tested on macOS 12.4 Monterey
 - [ ] Sleep/Wake
   - [ ] Stay Asleep
   - [ ] Features Normal After Wake
-- [ ] 📶 Intel WiFi
+- [x] 📶 Intel WiFi (AirportItlwm.kext)
 - [ ] 📶 Intel Bluetooth
 - [ ] 🔌 USB Ports
 - [ ] 💬 iMessage
