@@ -19,10 +19,11 @@ Tested on macOS 12.4 Monterey
 
 - [x] 🍎 Boot!
 - [x] ⌨️ Keyboard, Touchpad (VoodooPS2Controller.kext)
-  - [ ] Touching touchpad instead of clicking on it
+  - [x] Left click by touching (Settings > Touchpad > Tap to click)
   - [ ] Touchpad left/right click
 - [ ] 🤞 Touchscreen
 - [ ] 🖋 Touchpen
+- [x] 💡 Brightness Control
 - [ ] 🔋 CPU Power Management
   - [ ] Overheat reboot problem
 - [x] 🌈 Intel G7 Graphics
