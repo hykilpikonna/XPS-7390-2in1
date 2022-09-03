@@ -29,12 +29,15 @@ Tested on macOS 12.4 Monterey
   - [ ] Overheat reboot problem
 - [x] 🌈 Intel G7 Graphics
   - [ ] DRM
+  - [ ] Type-C to HDMI
+  - [ ] Type-C extenral monitor
 - [ ] 😴 Sleep/Wake
   - [ ] Stay Asleep
   - [ ] Features Normal After Wake
 - [x] 📶 Intel WiFi (AirportItlwm)
 - [x] 📶 Intel Bluetooth (IntelBluetoothFirmware)
 - [x] 🔌 USB Ports (There's only 15 controllers so I enabled everything)
+- [ ] 💾 SD Card Reader
 - [ ] 💬 iMessage
 - [ ] 🎧 Realtek ALC289 Audio (Layouts **11**, 15, 23, 87, 93, 99)
   - [x] 🔊 Internal Speaker
