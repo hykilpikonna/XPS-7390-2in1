@@ -17,14 +17,14 @@ Tested on macOS 12.4 Monterey
 
 ## Features
 
-- [x] Boot!
-- [x] Keyboard, Touchpad (VoodooPS2Controller.kext)
-- [ ] Touchscreen
-- [ ] Touchpen
-- [ ] CPU Power Management
-- [x] Intel G7 Graphics
+- [x] 🍎 Boot!
+- [x] ⌨️ Keyboard, Touchpad (VoodooPS2Controller.kext)
+- [ ] 🤞 Touchscreen
+- [ ] 🖋 Touchpen
+- [ ] 🔋 CPU Power Management
+- [x] 🌈 Intel G7 Graphics
   - [ ] DRM
-- [ ] Sleep/Wake
+- [ ] 😴 Sleep/Wake
   - [ ] Stay Asleep
   - [ ] Features Normal After Wake
 - [x] 📶 Intel WiFi (AirportItlwm.kext)
