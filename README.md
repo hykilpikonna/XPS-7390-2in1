@@ -19,6 +19,7 @@ Tested on macOS 12.4 Monterey
 
 - [x] 🍎 Boot!
 - [x] ⌨️ Keyboard, Touchpad (VoodooPS2Controller.kext)
+  - [x] Touchpad Gestures (VoodooI2C + VoodooI2CHID)
   - [x] Left click by touching (Settings > Touchpad > Tap to click)
   - [ ] Touchpad left/right click
 - [ ] 🤞 Touchscreen
@@ -35,4 +36,7 @@ Tested on macOS 12.4 Monterey
 - [ ] 📶 Intel Bluetooth
 - [ ] 🔌 USB Ports
 - [ ] 💬 iMessage
-- [ ] 🎧 Realtek ALC289 Audio
+- [ ] 🎧 Realtek ALC289 Audio (Layout 11)
+  - [x] 🔊 Internal Speaker
+  - [x] 🎤 Internal Microphone
+  - [ ] 🎧 External 3.5 Audio Port (Currently has static noise)
