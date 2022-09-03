@@ -18,7 +18,7 @@ Tested on macOS 12.4 Monterey
 ## Features
 
 - [x] 🍎 Boot! (MacBookPro16,2)
-- [x] ⌨️ Keyboard, Touchpad (VoodooPS2Controller.kext)
+- [x] ⌨️ Keyboard, Touchpad (VoodooPS2)
   - [x] Touchpad Gestures (VoodooI2C + VoodooI2CHID)
   - [x] Left click by touching (Settings > Touchpad > Tap to click)
   - [ ] Touchpad left/right click
@@ -32,9 +32,9 @@ Tested on macOS 12.4 Monterey
 - [ ] 😴 Sleep/Wake
   - [ ] Stay Asleep
   - [ ] Features Normal After Wake
-- [x] 📶 Intel WiFi (AirportItlwm.kext)
-- [ ] 📶 Intel Bluetooth
-- [ ] 🔌 USB Ports
+- [x] 📶 Intel WiFi (AirportItlwm)
+- [x] 📶 Intel Bluetooth (IntelBluetoothFirmware)
+- [x] 🔌 USB Ports (There's only 15 controllers so I enabled everything)
 - [ ] 💬 iMessage
 - [ ] 🎧 Realtek ALC289 Audio (Layout 11)
   - [x] 🔊 Internal Speaker
