@@ -1,7 +1,7 @@
 # XPS 13 7390 2in1 OpenCore - Monterey
 
-OpenCore 0.8.2  
-Tested on macOS 12.4 Monterey
+OpenCore 0.8.3  
+Tested on macOS 12.5.1 Monterey
 
 ## Hardware Configuration
 
