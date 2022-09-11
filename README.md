@@ -44,3 +44,15 @@ Tested on macOS 12.4 Monterey
   - [x] 🔊 Internal Speaker
   - [x] 🎤 Internal Microphone
   - [ ] 🎧 External 3.5 Audio Port (Currently has static noise)
+
+## Issues
+
+- [ ] Backlight does not turn on after waking from display turning off
+  - Tried switching off "POST Behavior > Sign of Life > Early Dell Logo Display" in bios.
+  - Currently backlight will work again after waiting for around a minute.
+
+## Special Thanks
+
+- [ArchLinux Wiki on 7390 2in1](https://wiki.archlinux.org/title/Dell_XPS_13_2-in-1_(7390))
+- [Ubuntu Wiki on 7390 2in1](https://wiki.ubuntu.com/Dell/XPS/XPS-13-7390-2-in-1)
+- [Gentoo Wiki on 7390 2in1](https://wiki.gentoo.org/wiki/Dell_XPS_13_2-in-1_(7390))
