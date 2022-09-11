@@ -240,6 +240,12 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>AABSig==</data>
+				<key>device-id</key>
+				<data>UooAAA==</data>
+				<key>disable-external-gpu</key>
+				<data>AQAAAA==</data>
+				<key>enable-hdmi20</key>
+				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
