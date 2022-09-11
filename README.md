@@ -47,9 +47,11 @@ Tested on macOS 12.4 Monterey
 
 ## Issues
 
-- [ ] Backlight does not turn on after waking from display turning off
+- [x] Backlight does not turn on after waking from display turning off
   - Tried switching off "POST Behavior > Sign of Life > Early Dell Logo Display" in bios.
-  - Currently backlight will work again after waiting for around a minute.
+  - Tried recompiling SSDT-PNLF and adding SSDT-ALS0
+  - ~~Currently backlight will work again after waiting for around a minute.~~
+  - Fixed by adding `-igfxblr` bootarg
 
 ## Special Thanks
 
