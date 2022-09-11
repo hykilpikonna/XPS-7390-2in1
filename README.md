@@ -25,6 +25,7 @@ Tested on macOS 12.5.1 Monterey
 - [ ] 🤞 Touchscreen
 - [ ] 🖋 Touchpen
 - [x] 💡 Brightness Control
+  - [x] Brightness keys (Currently fn+S and fn+B works, or `brew install monitorcontrol`)
 - [ ] 🔋 CPU Power Management
   - [ ] Overheat reboot problem
 - [x] 🌈 Intel G7 Graphics
