@@ -21,11 +21,10 @@ Tested on macOS 12.5.1 Monterey
 - [x] ⌨️ Keyboard, Touchpad (VoodooPS2)
   - [x] Touchpad Gestures (VoodooI2C + VoodooI2CHID)
   - [x] Left click by touching (Settings > Touchpad > Tap to click)
-  - [ ] Touchpad left/right click
 - [ ] 🤞 Touchscreen
 - [ ] 🖋 Touchpen
 - [x] 💡 Brightness Control
-  - [x] Brightness keys (Currently fn+S and fn+B works, or `brew install monitorcontrol`)
+  - [x] Brightness keys (Fixed by SSDT-OCWork-dell + BrightnessKeys.kext)
 - [ ] 🔋 CPU Power Management
   - [ ] Overheat reboot problem
 - [x] 🌈 Intel G7 Graphics
