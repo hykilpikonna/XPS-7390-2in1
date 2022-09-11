@@ -37,7 +37,7 @@ Tested on macOS 12.4 Monterey
 - [x] 📶 Intel WiFi (AirportItlwm)
 - [x] 📶 Intel Bluetooth (IntelBluetoothFirmware)
 - [x] 🔌 USB Ports (There's only 15 controllers so I enabled everything)
-- [ ] 💾 SD Card Reader
+- [ ] 💾 SD Card Reader (RTS525A PCIe)
 - [ ] 📷 Internal Webcam
 - [ ] 💬 iMessage
 - [ ] 🎧 Realtek ALC289 Audio (Layouts **11**, 15, 23, 87, 93, 99)
