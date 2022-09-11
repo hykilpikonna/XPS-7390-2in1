@@ -41,10 +41,11 @@ Tested on macOS 12.5.1 Monterey
 - [ ] 💾 SD Card Reader (RTS525A PCIe)
 - [ ] 📷 Internal Webcam (IPU4)
 - [ ] 💬 iMessage
-- [ ] 🎧 Realtek ALC289 Audio (Layouts **11**, 15, 23, 87, 93, 99)
+- [x] 🎧 Realtek ALC289 Audio (Layouts ~~11~~, ~~15~~, ~~23~~, **87**, ~~93~~, 99)
   - [x] 🔊 Internal Speaker
   - [x] 🎤 Internal Microphone
-  - [ ] 🎧 External 3.5 Audio Port (Currently has static noise)
+  - [x] 🎧 External 3.5 Headphones (11, 15, 23, 93, 99 has static noise)
+  - [ ] 🎤 External 3.5 Microphone
 
 ## Issues
 
